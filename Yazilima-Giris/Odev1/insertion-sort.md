@@ -13,6 +13,7 @@ O(n^2)
 
 ##### 3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
+Best Case: O(n)
 Average Case: O(n^2)
 Worst Case: O(n^2)
 Best Case: O(n)
